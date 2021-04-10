@@ -9,8 +9,8 @@ Description of the hack-we are building a website to have a solution which will 
 <BR>
     <h1>Tech stack used:</h1>
         <ol>
-            <li>html</li>
-            <li>css</li>
+            <li>HTML</li>
+            <li>CSS</li>
             <li>js</li>
             <li>bootstrap</li>
             <li>node.js</li>
