@@ -16,7 +16,7 @@ Description of the hack-we are building a website to have a solution which will 
         </ol>
         <BR>
 
-Installation steps: A clear sequence of steps to run your hack:<BR>
+<h3>Installation steps: A clear sequence of steps to run your hack:</h3><BR>
     
     Step1:CLICK on code option. 
     Step2:Click on download zip.
