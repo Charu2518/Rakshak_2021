@@ -1,6 +1,6 @@
-# Rakshak_2021
+# Rakshak
 
-Title-  RAKSHAK  <BR>
+<h1>Introduction</h1>  <BR>
     
 Description of the hack-we are building a website to have a solution which will help to curb sexual assault pandemic. Firstly the user will login themselves then the contact information of their five guardians would be asked. Now if the user is feeling unsafe or just wants to check in, a live location can be activated and can be shared with guardians. It is able to discreetly trigger an emergency alert with a double-press, instantly transmitting location information to selected contacts. If you do send an alert, it  lets your guardians navigate to your location. This feature is useful to help people reach you quickly. In this way it will be able to keep users safe through these SOS features. One of its applications enables users to enter their start point and destination, in case they feel the route is unsafe. The location of the device can be tracked real time.
 
