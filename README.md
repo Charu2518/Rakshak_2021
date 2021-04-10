@@ -25,4 +25,12 @@ Installation steps: A clear sequence of steps to run your hack:<BR>
     Step5:Run the program on your browser.
     
 <BR>
+    <h1>Contributors</h1>
+    Team name:Rakshak
+    <ul>
+        <li>Lakshita Singh</li>
+        <li>Charu Tandan</li>
+        <li>Jessica Banka</li>
+    </ul>
+            
 <img src="https://user-images.githubusercontent.com/77248016/114280700-298f7880-9a58-11eb-97e0-83ac75651540.jpeg">  
