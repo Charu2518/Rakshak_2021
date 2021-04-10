@@ -16,4 +16,4 @@ Installation steps: A clear sequence of steps to run your hack:<BR>
     Step5:Run the program on your browser.
     
 <BR>
-<img src="https://user-images.githubusercontent.com/67590424/109395916-fa63f280-7954-11eb-854c-74c3b071095c.png">  
+<img src="https://user-images.githubusercontent.com/77248016/114280700-298f7880-9a58-11eb-97e0-83ac75651540.jpeg">  
